@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋🏾 Welcome to Sundezine
 
-<!--
-**sundezine/Sundezine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m EJ, a creative technologist, web designer, and automation builder focused on helping businesses look professional, operate smarter, and grow online.
 
-Here are some ideas to get you started:
+Through Sundezine and Native Economics, I build digital systems that connect branding, websites, financial services, client workflows, and AI-powered automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+
+- Business websites and landing pages
+- Client dashboards and portals
+- AI chatbots and lead-generation systems
+- Tax and financial service platforms
+- Automation workflows for small businesses
+- Digital branding systems for service-based companies
+
+## Current Focus
+
+I’m currently building tools across:
+
+- Native Economics
+- Sitatax
+- Sundezine
+- Business automation
+- AI-assisted lead generation
+- Tax and asset recovery workflows
+
+## Tech & Tools
+
+```txt
+React | TypeScript | Vite | Tailwind CSS | Supabase
+WordPress | GitHub | API Integrations | Automation
+AI Tools | Business Systems | Web Design
+
+## Brand Mission
+My mission is to combine creative design, financial knowledge, and AI-driven systems into simple tools that help individuals and businesses move smarter in the digital economy.
+
+## Connect
+Website: https://sundezine.com
+Business: https://native-economics.com
+Tax Services: https://sitatax.com
