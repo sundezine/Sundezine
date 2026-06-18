@@ -26,11 +26,6 @@ I’m currently building tools across:
 
 ## Tech & Tools
 
-```txt
-React | TypeScript | Vite | Tailwind CSS | Supabase
-WordPress | GitHub | API Integrations | Automation
-AI Tools | Business Systems | Web Design
-
 ## Brand Mission
 My mission is to combine creative design, financial knowledge, and AI-driven systems into simple tools that help individuals and businesses move smarter in the digital economy.
 
@@ -38,3 +33,10 @@ My mission is to combine creative design, financial knowledge, and AI-driven sys
 Website: https://sundezine.com
 Business: https://native-economics.com
 Tax Services: https://sitatax.com
+
+```txt
+React | TypeScript | Vite | Tailwind CSS | Supabase
+WordPress | GitHub | API Integrations | Automation
+AI Tools | Business Systems | Web Design
+
+
